@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there, I'm Priscila!🧋
 
-<!--
-**priscilajanuario/priscilajanuario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+28 years old Web Developer from Brazil.
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=priscilajanuario&show_icons=true&theme=panda" alt="Anurag's GitHub stats">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Pris-Js" height="150" width="150">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pris-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pris-Python" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
+</div>
+  
