@@ -18,4 +18,4 @@
   <img align="center" alt="Pris-Python" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 </div>
   
-![snake animation](https://github.com/priscilajanuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/priscilajanuario/priscilajanuario/blob/output/github-contribution-grid-snake.svg)
