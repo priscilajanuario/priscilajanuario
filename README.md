@@ -4,8 +4,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=priscilajanuario&show_icons=true&theme=panda" alt="Anurag's GitHub stats">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Pris-Js" height="150" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/pris-avatar-gif-github.gif" alt="Pris-Js" height="200" width="200">
 </p>
 
 
