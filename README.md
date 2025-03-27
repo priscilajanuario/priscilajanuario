@@ -2,11 +2,7 @@
 
 28 years old Web Developer from Brazil.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priscilajanuario&show_icons=true&theme=panda" alt="Anurag's GitHub stats">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/avatar-github-readme.gif" alt="Pris-Js" height="200" width="200">
-</p>
+
 
 
 <div style="display: inline_block"><br>
