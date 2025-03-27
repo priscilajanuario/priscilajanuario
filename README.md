@@ -1,4 +1,4 @@
-## Hey there, I'm Priscila!🧋
+## Hi there, I'm Priscila!🧋
 
 28 years old Web Developer from Brazil.
 
